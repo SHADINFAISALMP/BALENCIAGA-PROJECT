@@ -1,0 +1,254 @@
+body{
+    margin: 0;
+}
+.head{
+    width: 100%;
+    height: 44.333px;
+    background-color: white;
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.newarrival{
+    width:470.521px ;
+    height: 28px;
+    font-family: "BB-Regular,Helvetica Neue,Helvetica,Arial,sans-serif";
+    color: black;
+    box-sizing: border-box;
+    font-size: 12px;
+    display: flex;
+    padding-left: 12px;
+    align-items: center;
+    cursor: pointer;
+
+}
+.newarrival li:hover{
+    border: 1px solid;
+}
+.newarrival>li{
+    list-style: none;
+    margin-right: 23px;
+    font-weight: 400;
+}
+.client{
+ width:450.708px;
+ height: 44px;
+ color: black;
+ font-size: 12px;
+ box-sizing: border-box;
+ display: flex;
+ justify-content: right;
+ align-items: center;
+ padding-right: 5px;
+ cursor: pointer;
+
+}
+.client li:hover{
+    border: 1px solid;
+}
+.client>li{
+    list-style: none;
+    margin-right: 30px;
+}
+.logo{
+    height: 44px;
+    width: 137px;
+
+}
+.logo1{
+    width: 137px;
+    height: 16px;
+    padding-top: 12px;
+}
+.search{
+    padding-right: 20px;
+}
+.image1{
+    margin-top: 50px;
+    float: left;
+    position: static; 
+    background-image: url(imagesbaln/Large-MONACO_GALERIES_LAFAYETTE_STORE_007_2600x1300.jpg);
+    width: 100%;
+    height: 631px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    
+}
+.discover{
+    width: 140px;
+    height: 40px;
+    margin-bottom: 20px;
+    cursor: pointer;
+
+}
+
+.image2{
+    width:1263.330px;
+    height:631.667px;
+    float: left;
+    background-image: url(imagesbaln/Large-WINTER23_SL_HOMEPAGE\ DESKTOP_2600x1300px_2x1_MONACO_BLACK_GOLD_0631_OPTION6_2_V01_Master.jpg);
+    position: static;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    flex-direction: column;
+    
+}
+.shopnow{
+    width: 140px;
+    height: 40px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+.monaco{
+    color: white;
+    font-family: " BB Helvetica Neue,Helvetica,Arial,sans-serif";
+    font-size: 22px;
+    font-weight: bold;
+    cursor: pointer;
+   
+    
+}
+.image3{
+    width: 1263.330px;
+    height: 631.667px;
+    float: left;
+   background-image: url(imagesbaln/Large-HOMEPAGE\ DESKTOP\ Wé-0000_W23_Look_Bag_03_2600x1300px.jpg);
+ position: static;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    flex-direction: column;
+
+    
+}
+.winter{
+    color: black;
+    font-family: " BB Helvetica Neue,Helvetica,Arial,sans-serif";
+    font-size: 22px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.forwomen{
+    width: 140px;
+    height: 40px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+.image4{
+    width: 1263.330px;
+    height: 631.667px;
+    float: left;
+    background-image: url(imagesbaln/Large-WINTER23_SL_HOMEPAGE\ DESKTOP_2600x1300px_2x1_ANATOMIC_BLACK_0985_OPTION1_BASE_V02_Master.jpg);
+    position: static;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    flex-direction: column;
+}
+.image5{
+    width: 1263.330px;
+    height: 631.667px;
+    float: left;
+    background-image: url(imagesbaln/Large-HOMEPAGE\ DESKTOP\ W2-0006_W23_Look\ 06_2600x1300px.jpg);
+    position: static;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    flex-direction: column;
+}
+.formen{
+    width: 140px;
+    height: 40px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+.image6{
+    width: 1263.330px;
+    height: 631.667px;
+    float: left;
+    position: static;
+    background-image: url(imagesbaln/Large-WINTER23_SL_HOMEPAGE\ DESKTOP_2600x1300px_2x1_3XL_SNEAKER_GREY_TOP_1247_OPTION1_BASE_V03_Master.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+}
+.fullfoot{
+    width: 100%;
+    height: 290.573px;
+    background-color: #aaaaac;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 14px;
+    font-family:"BB Regular Helvetica Neue Helvetica Arial Sans Serif" ;
+    justify-content: center;
+
+}
+.foot{
+    width: 1263.330px;
+    height: 249.823px;
+    border-bottom-color: black;
+    border-right-color: black;
+    border-left-color: black;
+    border-top-color: black;
+    box-sizing: border-box;
+    display: flex;
+    font-size: 14px;
+    
+}
+.box1{
+  width: 185.802px;
+  height: 233.156px;
+  padding-top: 16px;
+  padding-left: 12px;
+  padding-right: 12px;
+  border-bottom-color: black;
+  border-bottom-style: solid;
+  border-right-color: black;
+  border-right-style: solid;
+  border-top-color: black;
+  font-size: 12px;
+  color: black;
+  border-width: 1px;
+  font-family: "BB Regular Helvetica Neue Helvetica Arial Sans Serif";
+}
+.box1>ul{
+    padding: 0%;
+    list-style: none;
+    line-height: 30px;
+   
+}
+.a>li:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+
+.asset{
+    width: 102.615px;
+    height: 15.594px;
+    box-sizing: border-box;
+    color: black;
+    font-size: 6px;
+    font-family:"BB Regular Helvetica Neue Helvetica Arial Sans Serif"; 
+   text-decoration: underline;
+   cursor: pointer;
+   font-weight: 100px;
+   
+}
